@@ -1,9 +1,9 @@
-[submodule "mjolnir-config"]
-	path = mjolnir-config
-	url = https://github.com/sin/mjolnir-config
-[submodule "fonts"]
-	path = fonts
-	url = https://github.com/powerline/fonts
-[submodule "oh-my-zsh"]
-	path = oh-my-zsh
+[submodule "submodules/oh-my-zsh"]
+	path = submodules/oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh
+[submodule "submodules/mjolnir-config"]
+	path = submodules/mjolnir-config
+	url = https://github.com/sin/mjolnir-config
+[submodule "submodules/fonts"]
+	path = submodules/fonts
+	url = https://github.com/powerline/fonts
